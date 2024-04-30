@@ -22,9 +22,8 @@ sau
 1x Sursa alimentare compatibila cu sursa de caldura aleasa (ie. 5V min. 1A sau 12V min. 0.5A pentru 5W) 
 +Conectori
 
-TEMATICA PROIECTULUI:
-Se va realiza un sistem de conducere pe bază de microcontroller care va efectua
-următoarele funcţii:
+  TEMATICA PROIECTULUI:
+Sistem de conducere pe bază de microcontroller care va efectua următoarele funcţii:
 ● Încălzirea sistemului până la o temperatura setată TSET într-un timp t incalzire
 ● Menţinerea acestei temperaturi pentru o perioada de timp tmentinere
 ● Răcirea sistemului treptat într-o perioadă de timp t racire Interfaţa cu utilizatorul
